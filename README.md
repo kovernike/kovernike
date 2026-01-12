@@ -52,7 +52,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kovernike/kovernike/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
