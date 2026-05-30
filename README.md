@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Diego Dennis Villanueva</h1>
 
 <p align="left">
-Junior Full-Stack Web Developer from Peru, currently training at Codeable and building projects with JavaScript, React, Node.js, Express, TypeScript and relational databases.
+Junior Full-Stack Web Developer from Peru, trained at Codeable and focused on building web applications with JavaScript, React, Node.js, Express, TypeScript and relational databases.
 </p>
 
 <p align="left">
-I enjoy learning by building, improving my code step by step, and understanding how a web application works from the frontend to the backend. I value teamwork, clear communication and continuous improvement.
+I am passionate about web application development and continuously improving my technical skills. I enjoy creating solutions that combine functionality, performance and a good user experience. I value teamwork, effective communication and continuous learning, and I am committed to building high-quality software while growing professionally as a developer.
 </p>
 
 <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
